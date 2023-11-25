@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Sphere : MonoBehaviour
+public class Movement : MonoBehaviour
 {
     private void Update()
     {

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Capsule : MonoBehaviour
+public class Increase : MonoBehaviour
 {
     [SerializeField] float _speed;
 
